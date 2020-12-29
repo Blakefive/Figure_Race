@@ -9,6 +9,10 @@
 
 >You need build(windows)
 
+>1. Go to build(windows)
+
+>2. Run car.exe
+
 >>If you use linux
 
 >You need build(linux)
