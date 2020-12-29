@@ -1,0 +1,45 @@
+자동(auto)
+
+시동(Start up): Q
+사이드 브레이크(Side break): B
+D(전진)기어(Drive gear): J
+N(중립)기어(Neutral gea)r: K
+R(후진)기어(Reverse gear): L
+P(주차)기어(Parking gear): H
+약한 액셀(Low accel): E
+강한 액셀(High accel): D
+약한 브레이크(Low break): N, M
+강한 브레이크(High break): Space
+약한 좌회전(Low turn left): S
+강한 좌회전(High turn left): A
+약한 우회전(Low turn right): F
+강한 우회전(High turn right): G
+
+시작(start): Q -> B -> J -> D
+정지(stop): space/N/M -> H -> B -> Q
+
+수동(manual)
+
+시동(Start Up): Q
+사이드 브레이크(Side Break): B
+1 기어(1 gear): O
+2 기어(2 gear): L
+3 기어(3 gear): P
+4 기어(4 gear): ;
+5 기어(5 gear): [
+6 기어(6 gear): '
+클러치(Clutch): LeftShift, RightShift
+N(중립)기어(Neutral gea)r: J
+R(후진)기어(Reverse gear): K
+약한 액셀(Low accel): E
+강한 액셀(High accel): D
+약한 브레이크(Low break): N, M
+강한 브레이크(High break): Space
+약한 좌회전(Low turn left): S
+강한 좌회전(High turn left): A
+약한 우회전(Low turn right): F
+강한 우회전(High turn right): G
+
+시작(start): Q -> B -> O, LeftShift/RightShift -> D
+브레이크(break): Space/N/M, LeftShift, RightShift
+정지(stop): Space/N/M -> J/O, LeftShift/RightShift -> B -> Q
